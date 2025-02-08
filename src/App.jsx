@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
-import AboutCard from "./components/Aboutcard"
+import AboutCard from "./components/AboutCard"
 import ContactForm from "./components/Contact"
 
 
